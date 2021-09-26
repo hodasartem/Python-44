@@ -1,3 +1,4 @@
+#Variant - 1
 '''
 milk == 3
 butter == 5
@@ -17,3 +18,4 @@ else:
 
 
 #print(product)
+# comment
