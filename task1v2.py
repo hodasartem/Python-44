@@ -13,3 +13,5 @@ shop_items = {
 }
 
 print(shop_items.get(product.lower(), -1))
+
+#comment
